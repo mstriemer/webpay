@@ -267,7 +267,7 @@ APP_PURCHASE_KEY = KEY = DOMAIN
 
 # This is the key and secret for purchases, our special marketplace key and
 # secret for selling apps.
-APP_PURCHASE_SECRET = SECRET = 'please change this'
+SECRET = 'please change this'
 
 # We won't be persisting users in the DB.
 BROWSERID_CREATE_USER = False
